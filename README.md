@@ -12,7 +12,7 @@ The system is designed as a data pipeline that ingests chart data, enriches it u
 - Explore relationships between genre trends and listening behavior
 
 ## Data Sources
-- Billboard Top 100 chart data (selected years across decades)
+- Billboard Top 100 chart data (selected years and days across decades)
 - MusicBrainz API (genre classification)
 - AcousticBrainz API (tempo/BPM data)
 
